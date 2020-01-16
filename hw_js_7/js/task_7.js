@@ -7,4 +7,4 @@ fontsizeControl.addEventListener('input', increaseText);
 
 function increaseText() {
   sizeText.style.fontSize = fontsizeControl.value + 'px';
-};
+}
