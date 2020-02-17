@@ -12,7 +12,7 @@
 # [Module-11_JS-promisification](https://maxalter.github.io/goit-js-hw/hw_js_11-promisification/)
 # [Module-11_JS-timer](https://maxalter.github.io/goit-js-hw/hw_js_11-timer/)
 # [Module-11_JS-change-color](https://maxalter.github.io/goit-js-hw/hw_js_11-change-color/)
-# [Module-12_JS](https://maxalter.github.io/goit-js-hw/hw_js_12/)
+
 
 
 
