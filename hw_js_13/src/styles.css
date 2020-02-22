@@ -1,11 +1,60 @@
 html {
   box-sizing: border-box;
+  background-color: #d4d4d4;
 }
 
-*,
-*::before,
-*::after {
-  box-sizing: inherit;
+img {
+  width: 100%;
+}
+
+.listImages {
+  list-style: none;
+}
+
+.stats-item {
+  font-size: 24px;
+  font-weight: bold;
+  color: rgb(43, 0, 235);
+}
+
+.search-form {
+  display: flex;
+  justify-content: space-between;
+  width: 161px;
+  margin: auto;
+}
+
+.button {
+  background-color: rgb(49, 45, 238);
+  padding: 10px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  border: solid 2px #fff;
+  margin: 0 auto;
+  display: flex;
+
+}
+
+.input {
+  font-size: 22px;
+  width: 250px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 10px;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(237, 247, 103);
 }
 
 
+.style-input{
+    height: 20px;
+border: solid 2px rgb(0, 47, 255);
+}
